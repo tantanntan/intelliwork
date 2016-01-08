@@ -30,7 +30,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ubuntu/intelliwork.git"
+    "url": "https://github.com/tantanntan/intelliwork.git"
   },
   "author": "Toshitaka Tandai (ICS)",
   "license": "MIT"
