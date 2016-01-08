@@ -1,8 +1,8 @@
 {
   "name": "intelliwork",
   "private": true,
-  "version": "0.0.0",
-  "description": "a Sails application",
+  "version": "0.0.1",
+  "description": "a Sails application for remote-work-tracking",
   "keywords": [],
   "dependencies": {
     "ejs": "~0.8.4",
