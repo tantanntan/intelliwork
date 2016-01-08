@@ -5,7 +5,7 @@
 .waterline
 .rigging
 .tmp
-
+npm-debug.log
 
 ########################
 # node.js / npm
