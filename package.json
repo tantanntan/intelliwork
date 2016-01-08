@@ -32,6 +32,6 @@
     "type": "git",
     "url": "git://github.com/ubuntu/intelliwork.git"
   },
-  "author": "ubuntu",
-  "license": ""
+  "author": "Toshitaka Tandai (ICS)",
+  "license": "MIT"
 }
